@@ -1,0 +1,2 @@
+Place this directory under ~/.vim and add this line in .vimrc:
+    set runtimepath+=$HOME/.vim/orelog
